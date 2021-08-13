@@ -9,3 +9,4 @@
 - [1주차. 몽고DB 소개 ~ 몽고DB 기본](https://github.com/pch8388/MongoDB-study/issues/1) : 발표자 권동희P
 - [2주차. 도큐먼트 생성, 갱신, 삭제](https://github.com/pch8388/MongoDB-study/issues/2) : 발표자 윤성원P
 - [3주차. 쿼리](https://github.com/pch8388/MongoDB-study/issues/3) : 발표자 한문규P
+- [4주차. 인덱싱](https://github.com/pch8388/MongoDB-study/issues/4) : 발표자 권승철P
