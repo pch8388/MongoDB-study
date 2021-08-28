@@ -11,4 +11,4 @@
 - [3주차. 쿼리](https://github.com/pch8388/MongoDB-study/issues/3) : 발표자 한문규P
 - [4주차. 인덱싱](https://github.com/pch8388/MongoDB-study/issues/4) : 발표자 권승철P
 - [5주차. 집계프레임워크](https://github.com/pch8388/MongoDB-study/issues/5) : 발표자 박현호P
-- [6주차. 애플리케이션설계](https://github.com/pch8388/MongoDB-study/issues/6) : 발표자 P
+- [6주차. 애플리케이션설계](https://github.com/pch8388/MongoDB-study/issues/6) : 발표자 권동희P
