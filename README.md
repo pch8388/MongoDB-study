@@ -14,3 +14,4 @@
 - [6주차. 애플리케이션설계](https://github.com/pch8388/MongoDB-study/issues/6) : 발표자 권동희P
 - [7주차. 샤딩구성](https://github.com/pch8388/MongoDB-study/issues/7) : 발표자 윤성원P
 - [8주차. 복제 셋 설정](https://github.com/pch8388/MongoDB-study/issues/8) : 발표자 한문규P
+- [9주차. 복제 셋 구성요소 ~ 애플리케이션에서 복제 셋 연결](https://github.com/pch8388/MongoDB-study/issues/9) : 발표자 권P
